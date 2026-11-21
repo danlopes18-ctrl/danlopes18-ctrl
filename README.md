@@ -24,5 +24,5 @@ Software engineer focused on **full-stack TypeScript/JavaScript**, **Python auto
 ---
 
 <p align="center">
-  <sub>Open to open-source collaborations, high-impact bug fixes, and engineering bounties.</sub>
+  <sub>Open to open-source collaborations, high-impact bug fixes, and engineering bounties · <a href="https://www.upwork.com/freelancers/~017cd1009178a92a66">Upwork Profile</a></sub>
 </p>
