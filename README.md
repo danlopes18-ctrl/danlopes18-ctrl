@@ -12,8 +12,9 @@ Software engineer focused on **full-stack TypeScript/JavaScript**, **Python auto
 
 ---
 
-### 🚀 Featured Open-Source Project
+### 🚀 Featured Open-Source Projects
 
+- **[`mcp-starter-suite-lite`](https://github.com/danlopes18-ctrl/mcp-starter-suite-lite)** — 3 hardened, zero-dependency Node.js MCP servers (Filesystem Sandbox, Git Intelligence, Env Security Auditor) + Universal Stdio Inspector CLI · [Full 12-Server Production MCP Suite →](https://danlopes3.gumroad.com/l/production-mcp-suite)
 - **[`ai-automation-vault-lite`](https://github.com/danlopes18-ctrl/ai-automation-vault-lite)** — 5 production n8n workflows (zero community plugins) + a zero-dependency Node.js MCP server (`mcp-webhook-runner`) for Claude Code, Cursor & Antigravity · [Full 25-Workflow + 3-MCP PRO Vault →](https://danlopes3.gumroad.com/l/ai-automation-vault)
 
 ---
