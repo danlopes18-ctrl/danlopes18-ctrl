@@ -12,7 +12,7 @@ Software engineer focused on **full-stack TypeScript/JavaScript**, **Python auto
 
 ---
 
-### 🚀 Featured Open-Source Projects
+### 🚀 Featured Open-Source Projects · [Live Developer Storefront &amp; CLI Hub →](https://danlopes18-ctrl.github.io/)
 
 - **[`ai-agent-guardrails-lite`](https://github.com/danlopes18-ctrl/ai-agent-guardrails-lite)** — Zero-dependency Node.js `PreToolUse` security hooks (dangerous shell blocker, 11-pattern masked secret guard, protected files guard) + 14-rule OWASP PR Security Auditor for Claude Code, Cursor & Antigravity · [Full 10-Hook + 8-Rulebook + 12-Skill Engineering OS →](https://danlopes3.gumroad.com/l/ai-coding-guardrails-os)
 - **[`mcp-starter-suite-lite`](https://github.com/danlopes18-ctrl/mcp-starter-suite-lite)** — 3 hardened, zero-dependency Node.js MCP servers (Filesystem Sandbox, Git Intelligence, Env Security Auditor) + Universal Stdio Inspector CLI · [Full 12-Server Production MCP Suite →](https://danlopes3.gumroad.com/l/production-mcp-suite)
