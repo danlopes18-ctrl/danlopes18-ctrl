@@ -17,6 +17,7 @@ Software engineer focused on **full-stack TypeScript/JavaScript**, **Python auto
 - **[`ai-agent-guardrails-lite`](https://github.com/danlopes18-ctrl/ai-agent-guardrails-lite)** — Zero-dependency Node.js `PreToolUse` security hooks (dangerous shell blocker, 11-pattern masked secret guard, protected files guard) + 14-rule OWASP PR Security Auditor for Claude Code, Cursor & Antigravity · [Full 10-Hook + 8-Rulebook + 12-Skill Engineering OS →](https://danlopes3.gumroad.com/l/ai-coding-guardrails-os)
 - **[`mcp-starter-suite-lite`](https://github.com/danlopes18-ctrl/mcp-starter-suite-lite)** — 3 hardened, zero-dependency Node.js MCP servers (Filesystem Sandbox, Git Intelligence, Env Security Auditor) + Universal Stdio Inspector CLI · [Full 12-Server Production MCP Suite →](https://danlopes3.gumroad.com/l/production-mcp-suite)
 - **[`ai-automation-vault-lite`](https://github.com/danlopes18-ctrl/ai-automation-vault-lite)** — 5 production n8n workflows (zero community plugins) + a zero-dependency Node.js MCP server (`mcp-webhook-runner`) for Claude Code, Cursor & Antigravity · [Full 25-Workflow + 3-MCP PRO Vault →](https://danlopes3.gumroad.com/l/ai-automation-vault)
+- 🎁 **[Complete AI Engineering Stack Bundle (All 3 Pro Suites · Save $38 →)](https://danlopes3.gumroad.com/l/complete-ai-engineering-stack)** — 25 n8n Workflows + 15 Zero-Dep MCP Servers + 10 Security Guardrails & CLIs + 12 Rulebooks + 12 Skills (Commercial License)
 
 ---
 
