@@ -12,6 +12,12 @@ Software engineer focused on **full-stack TypeScript/JavaScript**, **Python auto
 
 ---
 
+### 🚀 Featured Open-Source Project
+
+- **[`ai-automation-vault-lite`](https://github.com/danlopes18-ctrl/ai-automation-vault-lite)** — 5 production n8n workflows (zero community plugins) + a zero-dependency Node.js MCP server (`mcp-webhook-runner`) for Claude Code, Cursor & Antigravity · [Full 25-Workflow + 3-MCP PRO Vault →](https://danlopes3.gumroad.com/l/ai-automation-vault)
+
+---
+
 ### 🧩 Core Areas of Focus
 
 | Domain | Technologies |
